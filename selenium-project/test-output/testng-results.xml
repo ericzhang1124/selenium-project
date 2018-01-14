@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="164735" started-at="2018-01-08T18:15:06Z" finished-at="2018-01-08T18:17:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="164735" started-at="2018-01-08T18:15:06Z" finished-at="2018-01-08T18:17:51Z">
+      <class name="com.ui.test.eric.eric_selenium.testcase.LoginModel">
+        <test-method status="PASS" signature="bClass()[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="bClass" is-config="true" duration-ms="2969" started-at="2018-01-09T02:15:06Z" finished-at="2018-01-09T02:15:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bClass -->
+        <test-method status="PASS" signature="bMethod()[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="bMethod" is-config="true" duration-ms="77215" started-at="2018-01-09T02:15:09Z" finished-at="2018-01-09T02:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method status="PASS" signature="testLoginFailWithWrongPwd(java.lang.String, java.lang.String)[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="testLoginFailWithWrongPwd" duration-ms="4773" started-at="2018-01-09T02:16:26Z" data-provider="wrongPwd" finished-at="2018-01-09T02:16:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pro_tes@126.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFailWithWrongPwd -->
+        <test-method status="PASS" signature="aMethod()[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="aMethod" is-config="true" duration-ms="14854" started-at="2018-01-09T02:16:31Z" finished-at="2018-01-09T02:16:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="bMethod()[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="bMethod" is-config="true" duration-ms="1858" started-at="2018-01-09T02:16:46Z" finished-at="2018-01-09T02:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method status="PASS" signature="testLoginFailWithWrongPwd(java.lang.String, java.lang.String)[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="testLoginFailWithWrongPwd" duration-ms="2305" started-at="2018-01-09T02:16:48Z" data-provider="wrongPwd" finished-at="2018-01-09T02:16:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pro_tes@126.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[111111]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFailWithWrongPwd -->
+        <test-method status="PASS" signature="aMethod()[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="aMethod" is-config="true" duration-ms="12860" started-at="2018-01-09T02:16:50Z" finished-at="2018-01-09T02:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="bMethod()[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="bMethod" is-config="true" duration-ms="1235" started-at="2018-01-09T02:17:03Z" finished-at="2018-01-09T02:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method status="PASS" signature="testLoginFailWithWrongPwd(java.lang.String, java.lang.String)[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="testLoginFailWithWrongPwd" duration-ms="13917" started-at="2018-01-09T02:17:04Z" data-provider="wrongPwd" finished-at="2018-01-09T02:17:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pro_tes@126.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFailWithWrongPwd -->
+        <test-method status="PASS" signature="aMethod()[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="aMethod" is-config="true" duration-ms="12010" started-at="2018-01-09T02:17:18Z" finished-at="2018-01-09T02:17:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="bMethod()[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="bMethod" is-config="true" duration-ms="2523" started-at="2018-01-09T02:17:30Z" finished-at="2018-01-09T02:17:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method status="PASS" signature="testLoginSuccess()[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="testLoginSuccess" duration-ms="6750" started-at="2018-01-09T02:17:32Z" finished-at="2018-01-09T02:17:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginSuccess -->
+        <test-method status="PASS" signature="aMethod()[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="aMethod" is-config="true" duration-ms="11434" started-at="2018-01-09T02:17:39Z" finished-at="2018-01-09T02:17:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="aClass()[pri:0, instance:com.ui.test.eric.eric_selenium.testcase.LoginModel@464bee09]" name="aClass" is-config="true" duration-ms="0" started-at="2018-01-09T02:17:51Z" finished-at="2018-01-09T02:17:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aClass -->
+      </class> <!-- com.ui.test.eric.eric_selenium.testcase.LoginModel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

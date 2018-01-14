@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.ui.test.eric.eric_selenium.testcase.MyCVEditModel">
+        <methods>
+          <include name="aMethod"/>
+          <include name="testUpdateUserPhone"/>
+          <include name="bMethod"/>
+          <include name="bClass"/>
+          <include name="aClass"/>
+        </methods>
+      </class> <!-- com.ui.test.eric.eric_selenium.testcase.MyCVEditModel -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

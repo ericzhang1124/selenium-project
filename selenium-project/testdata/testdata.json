@@ -1,0 +1,15 @@
+{
+	"_desc1":"登录模块，密码错误登录失败测试案例的数据",
+	"testLoginFailWithWrongPwd":
+	{
+		"data1":{"username":"pro_tes@126.com", "password":"111111"},
+		"data2":{"username":"pro_tes@126.com", "password":"222222"},
+		"data3":{"username":"pro_tes@126.com", "password":"333333"}
+	},
+	
+	"_desc2":"登录模块，可登录成功的测试账号",
+	"testLoginSuccess":
+	{
+		"data1":{"username":"pro_tes@126.com", "password":"qweqwe123"}
+	}
+}
