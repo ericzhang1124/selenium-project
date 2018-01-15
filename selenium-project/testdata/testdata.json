@@ -10,6 +10,6 @@
 	"_desc2":"登录模块，可登录成功的测试账号",
 	"testLoginSuccess":
 	{
-		"data1":{"username":"pro_tes@126.com", "password":"qweqwe123"}
+		"data1":{"username":"pro_tes@126.com", "password":"******"}
 	}
 }
