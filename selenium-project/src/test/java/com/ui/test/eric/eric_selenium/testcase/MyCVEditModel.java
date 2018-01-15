@@ -46,7 +46,7 @@ public class MyCVEditModel extends BaseCase{
 			homePageHandle.closeSwitchCityDiaBox();
 		}
 		homePageHandle.clickLoginBtn();
-		lbus.loginSuc("pro_tes@126.com", "qweqwe123");
+		lbus.loginSuc("pro_tes@126.com", "******");
 	}
 	
 	@Test
